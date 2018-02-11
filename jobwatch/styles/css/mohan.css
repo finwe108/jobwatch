@@ -1,0 +1,295 @@
+/*
+ * Flat UI Colors
+*/
+.turquoise,.hover-turquoise:hover {background-color: #1abc9c !important;}
+.turquoise-text,.hover-turquoise-text:hover {color: #1abc9c !important;}
+.greensea,.hover-greensea:hover {background-color: #16a085 !important;}
+.greensea-text,.hover-greensea-text:hover {color: #16a085 !important;}
+.emerland,.hover-emerland:hover {background-color: #2ecc71 !important;}
+.emerland-text,.hover-emerland-text:hover {color: #2ecc71 !important;}
+.nephritis,.hover-nephritis:hover {background-color: #27ae60 !important;}
+.nephritis-text,.hover-nephritis-text:hover {color: #27ae60 !important;}
+.peterriver,.hover-peterriver:hover {background-color: #3498db !important;}
+.peterriver-text,.hover-peterriver-text:hover {color: #3498db !important;}
+.belizehole,.hover-belizehole:hover {background-color: #2980b9 !important;}
+.belizehole-text,.hover-belizehole-text:hover {color: #2980b9 !important;}
+.amethyst,.hover-amethyst:hover {background-color: #9b59b6 !important;}
+.amethyst-text,.hover-amethyst-text:hover {color: #9b59b6 !important;}
+.wisteria,.hover-wisteria:hover {background-color: #8e44ad !important;}
+.wisteria-text,.hover-wisteria-text:hover {color: #8e44ad !important;}
+.wetasphalt,.hover-wetasphalt:hover {background-color: #34495e !important;}
+.wetasphalt-text,.hover-wetasphalt-text:hover {color: #34495e !important;}
+.midnightblue,.hover-midnightblue:hover {background-color: #2c3e50 !important;}
+.midnightblue-text,.hover-midnightblue-text:hover {color: #2c3e50 !important;}
+.sunflower,.hover-sunflower:hover {background-color: #f1c40f !important;}
+.sunflower-text,.hover-sunflower-text:hover {color: #f1c40f !important;}
+.orange,.hover-orange:hover {background-color: #f39c12 !important;}
+.orange-text,.hover-orange-text:hover {color: #f39c12 !important;}
+.carrot,.hover-carrot:hover {background-color: #e67e22 !important;}
+.carrot-text,.hover-carrot-text:hover {color: #e67e22 !important;}
+.pumpkin,.hover-pumpkin:hover {background-color: #d35400 !important;}
+.pumpkin-text,.hover-pumpkin-text:hover {color: #d35400 !important;}
+.alizaren,.hover-alizaren:hover {background-color: #e74c3c !important;}
+.alizaren-text,.hover-alizaren-text:hover {color: #e74c3c !important;}
+.pomegranate,.hover-pomegranate:hover {background-color: #c0392b !important;}
+.pomegranate-text,.hover-pomegranate-text:hover {color: #c0392b !important;}
+.cloud,.hover-cloud:hover {background-color: #ecf0f1 !important;}
+.cloud-text,.hover-cloud-text:hover {color: #ecf0f1 !important;}
+.concrete,.hover-concrete:hover {background-color: #95a5a6 !important;}
+.concrete-text,.hover-concrete-text:hover {color: #95a5a6 !important;}
+.asbestos,.hover-asbestos:hover {background-color: #7f8c8d !important;}
+.asbestos-text,.hover-asbestos-text:hover{color: #7f8c8d !important;}
+
+
+/**************************************************/
+/** BUTTONS  **/
+/*************************************************/
+.btn-turquoise{background-color:#1abc9c;}
+.btn-turquoise:hover{background-color:#27c9a9!important;}
+.btn-turquoise:focus,.btn-turquoise:active,.btn-turquoise.active{background-color:#12ac8d!important;}
+.btn-turquoise.dropdown-toggle{background-color:#1abc9c!important;}
+.btn-turquoise.dropdown-toggle:hover,.btn-turquoise.dropdown-toggle:focus{background-color:#27c9a9!important;}
+.btn-greensea{background-color:#16a085;}
+.btn-greensea:hover{background-color:#2ab499!important;}
+.btn-greensea:focus,.btn-greensea:active,.btn-greensea.active{background-color:#0d8971!important;}
+.btn-greensea.dropdown-toggle{background-color:#16a085!important;}
+.btn-greensea.dropdown-toggle:hover,.btn-greensea.dropdown-toggle:focus{background-color:#2ab499!important;}
+.btn-emerland{background-color:#2ecc71;}
+.btn-emerland:hover{background-color:#47d583!important;}
+.btn-emerland:focus,.btn-emerland:active,.btn-emerland.active{background-color:#23b661!important;}
+.btn-emerland.dropdown-toggle{background-color:#2ecc71!important;}
+.btn-emerland.dropdown-toggle:hover,.btn-emerland.dropdown-toggle:focus{background-color:#47d583!important;}
+.btn-nephritis{background-color:#27ae60;}
+.btn-nephritis:hover{background-color:#3ab86f!important;}
+.btn-nephritis:focus,.btn-nephritis:active,.btn-nephritis.active{background-color:#1a964f!important;}
+.btn-nephritis.dropdown-toggle{background-color:#27ae60!important;}
+.btn-nephritis.dropdown-toggle:hover,.btn-nephritis.dropdown-toggle:focus{background-color:#3ab86f!important;}
+.btn-peterriver{background-color:#3498db;}
+.btn-peterriver:hover{background-color:#4aa3df!important;}
+.btn-peterriver:focus,.btn-peterriver:active,.btn-peterriver.active{background-color:#2785c4!important;}
+.btn-peterriver.dropdown-toggle{background-color:#3498db!important;}
+.btn-peterriver.dropdown-toggle:hover,.btn-peterriver.dropdown-toggle:focus{background-color:#4aa3df!important;}
+.btn-belizehole{background-color:#2980b9;}
+.btn-belizehole:hover{background-color:#4090c4!important;}
+.btn-belizehole:focus,.btn-belizehole:active,.btn-belizehole.active{background-color:#186597!important;}
+.btn-belizehole.dropdown-toggle{background-color:#2980b9!important;}
+.btn-belizehole.dropdown-toggle:hover,.btn-belizehole.dropdown-toggle:focus{background-color:#4090c4!important;}
+.btn-amethyst{background-color:#9b59b6;}
+.btn-amethyst:hover{background-color:#ab73c2!important;}
+.btn-amethyst:focus,.btn-amethyst:active,.btn-amethyst.active{background-color:#663399!important;}
+.btn-amethyst.dropdown-toggle{background-color:#9b59b6!important;}
+.btn-amethyst.dropdown-toggle:hover,.btn-amethyst.dropdown-toggle:focus{background-color:#ab73c2!important;}
+.btn-wisteria{background-color:#8e44ad;}
+.btn-wisteria:hover{background-color:#9e5abb!important;}
+.btn-wisteria:focus,.btn-wisteria:active,.btn-wisteria.active{background-color:#763094!important;}
+.btn-wisteria.dropdown-toggle{background-color:#8e44ad!important;}
+.btn-wisteria.dropdown-toggle:hover,.btn-wisteria.dropdown-toggle:focus{background-color:#9e5abb!important;}
+
+.btn-greensea{background-color:#16a085;}
+.btn-greensea:hover{background-color:#2ab499!important;}
+.btn-greensea:focus,.btn-greensea:active,.btn-greensea.active{background-color:#0d8971!important;}
+.btn-greensea.dropdown-toggle{background-color:#16a085!important;}
+.btn-greensea.dropdown-toggle:hover,.btn-greensea.dropdown-toggle:focus{background-color:#2ab499!important;}
+
+.btn-greensea{background-color:#16a085;}
+.btn-greensea:hover{background-color:#2ab499!important;}
+.btn-greensea:focus,.btn-greensea:active,.btn-greensea.active{background-color:#0d8971!important;}
+.btn-greensea.dropdown-toggle{background-color:#16a085!important;}
+.btn-greensea.dropdown-toggle:hover,.btn-greensea.dropdown-toggle:focus{background-color:#2ab499!important;}
+
+.btn-greensea{background-color:#16a085;}
+.btn-greensea:hover{background-color:#2ab499!important;}
+.btn-greensea:focus,.btn-greensea:active,.btn-greensea.active{background-color:#0d8971!important;}
+.btn-greensea.dropdown-toggle{background-color:#16a085!important;}
+.btn-greensea.dropdown-toggle:hover,.btn-greensea.dropdown-toggle:focus{background-color:#2ab499!important;}
+
+.btn-greensea{background-color:#16a085;}
+.btn-greensea:hover{background-color:#2ab499!important;}
+.btn-greensea:focus,.btn-greensea:active,.btn-greensea.active{background-color:#0d8971!important;}
+.btn-greensea.dropdown-toggle{background-color:#16a085!important;}
+.btn-greensea.dropdown-toggle:hover,.btn-greensea.dropdown-toggle:focus{background-color:#2ab499!important;}
+
+.btn-greensea{background-color:#16a085;}
+.btn-greensea:hover{background-color:#2ab499!important;}
+.btn-greensea:focus,.btn-greensea:active,.btn-greensea.active{background-color:#0d8971!important;}
+.btn-greensea.dropdown-toggle{background-color:#16a085!important;}
+.btn-greensea.dropdown-toggle:hover,.btn-greensea.dropdown-toggle:focus{background-color:#2ab499!important;}
+
+.btn-greensea{background-color:#16a085;}
+.btn-greensea:hover{background-color:#2ab499!important;}
+.btn-greensea:focus,.btn-greensea:active,.btn-greensea.active{background-color:#0d8971!important;}
+.btn-greensea.dropdown-toggle{background-color:#16a085!important;}
+.btn-greensea.dropdown-toggle:hover,.btn-greensea.dropdown-toggle:focus{background-color:#2ab499!important;}
+
+.btn-greensea{background-color:#16a085;}
+.btn-greensea:hover{background-color:#2ab499!important;}
+.btn-greensea:focus,.btn-greensea:active,.btn-greensea.active{background-color:#0d8971!important;}
+.btn-greensea.dropdown-toggle{background-color:#16a085!important;}
+.btn-greensea.dropdown-toggle:hover,.btn-greensea.dropdown-toggle:focus{background-color:#2ab499!important;}
+
+.btn-greensea{background-color:#16a085;}
+.btn-greensea:hover{background-color:#2ab499!important;}
+.btn-greensea:focus,.btn-greensea:active,.btn-greensea.active{background-color:#0d8971!important;}
+.btn-greensea.dropdown-toggle{background-color:#16a085!important;}
+.btn-greensea.dropdown-toggle:hover,.btn-greensea.dropdown-toggle:focus{background-color:#2ab499!important;}
+
+.btn-greensea{background-color:#16a085;}
+.btn-greensea:hover{background-color:#2ab499!important;}
+.btn-greensea:focus,.btn-greensea:active,.btn-greensea.active{background-color:#0d8971!important;}
+.btn-greensea.dropdown-toggle{background-color:#16a085!important;}
+.btn-greensea.dropdown-toggle:hover,.btn-greensea.dropdown-toggle:focus{background-color:#2ab499!important;}
+
+.btn-greensea{background-color:#16a085;}
+.btn-greensea:hover{background-color:#2ab499!important;}
+.btn-greensea:focus,.btn-greensea:active,.btn-greensea.active{background-color:#0d8971!important;}
+.btn-greensea.dropdown-toggle{background-color:#16a085!important;}
+.btn-greensea.dropdown-toggle:hover,.btn-greensea.dropdown-toggle:focus{background-color:#2ab499!important;}
+
+
+
+/*************************************************************************************/
+/* INPUTS                                                                            */
+/*************************************************************************************/
+
+/*  Para matago it radio button (round disc). It label na la it gamiton */
+input[type=radio]{display:none;margin:10px;}
+
+/*  Upayon it label kay amo la it makit-an */
+input[type=radio] + label {
+    display:inline-block;
+    margin:-2px;
+    padding: 4px 12px;
+    background-color: #d0d0d0;/* #2980b9;*/
+    color: #000;
+    border-color: #fff;
+    font-size: 1.5rem;
+}
+/* Baylu-an it background hit label para masabtan nga napilian */
+input[type=radio]:checked + label { 
+   background-image: none;
+    background-color:#8e44ad;/*#d0d0d0;*/
+    color: #fff;
+}
+
+/* Radio Buttons
+   ========================================================================== */
+/*[type="radio"]:not(:checked),
+[type="radio"]:checked {
+  position: absolute;
+  opacity: 0;
+  pointer-events: none;
+}
+
+[type="radio"]:not(:checked) + label,
+[type="radio"]:checked + label {
+  position: relative;
+  padding-left: 35px;
+  cursor: pointer;
+  display: inline-block;
+  height: 25px;
+  line-height: 25px;
+  font-size: 1rem;
+  -webkit-transition: .28s ease;
+  transition: .28s ease;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+}
+
+[type="radio"] + label:before,
+[type="radio"] + label:after {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  margin: 4px;
+  width: 16px;
+  height: 16px;
+  z-index: 0;
+  -webkit-transition: .28s ease;
+  transition: .28s ease;
+}*/
+
+/* Unchecked styles */
+/*[type="radio"]:not(:checked) + label:before,
+[type="radio"]:not(:checked) + label:after,
+[type="radio"]:checked + label:before,
+[type="radio"]:checked + label:after,
+[type="radio"].with-gap:checked + label:before,
+[type="radio"].with-gap:checked + label:after {
+  border-radius: 50%;
+}
+
+[type="radio"]:not(:checked) + label:before,
+[type="radio"]:not(:checked) + label:after {
+  border: 2px solid #5a5a5a;
+}
+
+[type="radio"]:not(:checked) + label:after {
+  -webkit-transform: scale(0);
+          transform: scale(0);
+}
+*/
+/* Checked styles */
+/*[type="radio"]:checked + label:before {
+  border: 2px solid transparent;
+}
+
+[type="radio"]:checked + label:after,
+[type="radio"].with-gap:checked + label:before,
+[type="radio"].with-gap:checked + label:after {
+  border: 2px solid #2980b9;
+}
+
+[type="radio"]:checked + label:after,
+[type="radio"].with-gap:checked + label:after {
+  background-color: #2980b9;
+}
+
+[type="radio"]:checked + label:after {
+  -webkit-transform: scale(1.02);
+          transform: scale(1.02);
+}*/
+
+/* Radio With gap */
+/*[type="radio"].with-gap:checked + label:after {
+  -webkit-transform: scale(0.5);
+          transform: scale(0.5);
+}*/
+
+/* Focused styles */
+/*[type="radio"].tabbed:focus + label:before {
+  -webkit-box-shadow: 0 0 0 10px rgba(0, 0, 0, 0.1);
+          box-shadow: 0 0 0 10px rgba(0, 0, 0, 0.1);
+}*/
+
+/* Disabled Radio With gap */
+/*[type="radio"].with-gap:disabled:checked + label:before {
+  border: 2px solid rgba(0, 0, 0, 0.42);
+}
+
+[type="radio"].with-gap:disabled:checked + label:after {
+  border: none;
+  background-color: rgba(0, 0, 0, 0.42);
+}
+*/
+/* Disabled style */
+/*[type="radio"]:disabled:not(:checked) + label:before,
+[type="radio"]:disabled:checked + label:before {
+  background-color: transparent;
+  border-color: rgba(0, 0, 0, 0.42);
+}
+
+[type="radio"]:disabled + label {
+  color: rgba(0, 0, 0, 0.42);
+}
+
+[type="radio"]:disabled:not(:checked) + label:before {
+  border-color: rgba(0, 0, 0, 0.42);
+}
+
+[type="radio"]:disabled:checked + label:after {
+  background-color: rgba(0, 0, 0, 0.42);
+  border-color: #949494;
+}*/
